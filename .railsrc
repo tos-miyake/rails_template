@@ -1,0 +1,4 @@
+--skip-test
+--database=postgresql
+--template=~/.ghq/github.com/tos-miyake/rails_template/.template.rb
+#--template=https://github.com/**user_name/repo_name**/raw/master/.rails_application_template.rb # remote url or local path
